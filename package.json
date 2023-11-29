@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "devDependencies": {
+    "axios": "^1.6.2",
+    "mocha": "^10.2.0"
+  }
+}
